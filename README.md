@@ -17,3 +17,4 @@
 -   [For writing ideas](https://www.iflscience.com/)
 -   [The Onion](https://www.theonion.com/)
 -   [Wayback Machine](https://archive.org/web/)
+-   [pleated-jeans](https://pleated-jeans.com/)
